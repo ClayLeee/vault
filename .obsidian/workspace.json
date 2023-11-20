@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "a175607ce417953f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba24889eb04664d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b5ecf3d8fe79f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FleetNote/Neovim.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a2079f9cb8e94c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef76c09a3a1af727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25dce3e0e8343d35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d8133ccf5d37f96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "useeffect",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd8d89fd9492291b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "43a4118af3f1d57d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5124969482422
+  },
+  "right": {
+    "id": "342d9cb8881e77c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2937c424f54307c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36bef0a54b54ff69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25fb4fa834e5e04b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "90b02a3c950c74f2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2eb362f830dbe2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/U don't know JS/2-6 觀念小叮嚀-語法解析器、執行環境與詞彙環境.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "17d5fd66703d9e3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FleetNote/Neovim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e21a5747f25e326c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FleetNote/Neovim.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63dc417f1c57d38d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FleetNote/Neovim.md"
+              }
+            }
+          },
+          {
+            "id": "f9e828eb0ce2a3a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 493.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:建立新畫布": false,
+      "switcher:開啟快速切換": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:查看關聯圖": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "43b5ecf3d8fe79f3",
+  "lastOpenFiles": [
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/111. Finalizing Auth Listener.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/112. Observer Pattern.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/104. Finishing Authentication Page.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/103. Sign In Form.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/102. Custom Button Component.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/101. Generalizing Form Input Component.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/95. Setting Up User Documents.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/85. React Router Outlet.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/65. DOM and Virtual DOM.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/51. Monsters Rolodex - CardList Component.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/25. Don't Eject.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/21. Create React App - NPX.md",
+    "Frontend/React/Replace Component lifecycle with useEffect hook.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/61. Monsters Rolodex - Hooks - useEffect.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/60. Monsters Rolodex - Infinite Re-rendering.md",
+    "Work@IIIDevops/線上計劃書-自動登出 mixin.md",
+    "Work@IIIDevops/線上計劃書-首次登入強制更新密碼.md",
+    "Work@IIIDevops/線上計劃書-語音辨識 mixin.md",
+    "Work@IIIDevops/線上計劃書-數位簽章 module.md",
+    "Work@IIIDevops/線上計劃書-Google Tag Manager(GTM).md",
+    "Work@IIIDevops/BPMN.md",
+    "Work@IIIDevops/IIIDevOps-時間 module.md",
+    "Work@IIIDevops/IIIDevOps-動態路由.md",
+    "Work@IIIDevops/Manage architecture & Monorepo.md",
+    "Work@IIIDevops/Scss refactor.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20231112154347.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20231112154156.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230604215119.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/canvas/User data flow.canvas",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/canvas/React  Context.canvas",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230604151610.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230603200940.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230603200905.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230603194047.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230603174704.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230603174626.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230603174547.png",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/canvas/Google authentication with Firebase & Apps.canvas",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/canvas/Real DOM & Virtual DOM.canvas",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/canvas/Dom Tree of Monsters Rolodex.canvas",
+    "Excalidraw",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/canvas/History of front end.canvas",
+    "MachineLearning/Machine Learning Foundations",
+    "MachineLearning",
+    "phpto",
+    "Work@IIIDevops/photo"
+  ]
+}

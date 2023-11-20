@@ -1,0 +1,4 @@
+- has installed
+	- https://felixkratz.github.io/SketchyBar/setup
+	- https://github.com/FelixKratz/dotfiles/tree/f91d13852d7fbfd59faa5669c82fecc66b977643
+	- https://github.com/koekeishiya/yabai/wiki/Installing-yabai-(latest-release)

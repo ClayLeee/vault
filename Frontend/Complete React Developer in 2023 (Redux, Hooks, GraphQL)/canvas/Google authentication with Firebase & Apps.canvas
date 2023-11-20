@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"Firebase\n","id":"58250521346d082f","x":40,"y":-400,"width":140,"height":60},
+		{"type":"text","text":"Google\n","id":"f39cb0e1c0df66d4","x":360,"y":240,"width":121,"height":60},
+		{"type":"text","text":"crwn-clothing","id":"4ad9d588ebfcac6d","x":-380,"y":60,"width":180,"height":50}
+	],
+	"edges":[
+		{"id":"acd097330f3ea4f9","fromNode":"4ad9d588ebfcac6d","fromSide":"bottom","toNode":"f39cb0e1c0df66d4","toSide":"left","label":"1. sign in"},
+		{"id":"6435b83e6472b2a2","fromNode":"f39cb0e1c0df66d4","fromSide":"left","toNode":"4ad9d588ebfcac6d","toSide":"right","label":"2. response back auth token"},
+		{"id":"bea5bcaf50586a7b","fromNode":"4ad9d588ebfcac6d","fromSide":"top","toNode":"58250521346d082f","toSide":"left","label":"3. send auth token"},
+		{"id":"a5f85570ba50290b","fromNode":"58250521346d082f","fromSide":"bottom","toNode":"f39cb0e1c0df66d4","toSide":"top","label":"4. verify auth token"},
+		{"id":"49175c2d1db53fe6","fromNode":"f39cb0e1c0df66d4","fromSide":"top","toNode":"58250521346d082f","toSide":"right","label":"5. confirm auth token"},
+		{"id":"92772f7fa761d723","fromNode":"58250521346d082f","fromSide":"left","toNode":"4ad9d588ebfcac6d","toSide":"left","label":"6. return access token"},
+		{"id":"71da60b778c8d902","fromNode":"4ad9d588ebfcac6d","fromSide":"right","toNode":"58250521346d082f","toSide":"bottom","label":"7. send request with access token"},
+		{"id":"d7a91ce563227bb1","fromNode":"58250521346d082f","fromSide":"top","toNode":"4ad9d588ebfcac6d","toSide":"top","label":"8. return response"}
+	]
+}

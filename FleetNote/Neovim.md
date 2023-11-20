@@ -1,0 +1,9 @@
+- https://github.com/ecosse3/nvim
+- https://github.com/itsuki0927/SkCode
+- https://github.com/josean-dev/dev-environment-files/tree/main/.config/nvim
+- lazygit: https://github.com/jesseduffield/lazygit
+- vim 指令: https://www.gushiciku.cn/dc_tw/201286730
+- https://www.youtube.com/watch?v=_1ijgc7G3pg&ab_channel=devaslife
+- https://github.com/kidp2h/lazynvim
+- https://github.com/AstroNvim/AstroNvim
+- https://astronvim.com/

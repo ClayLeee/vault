@@ -1,0 +1,83 @@
+{
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "P"
+    }
+  ],
+  "workspace:copy-url": [],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "O"
+    }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "="
+    }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
+    }
+  ],
+  "window:zoom-out": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "-"
+    }
+  ],
+  "canvas:new-file": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "V"
+    }
+  ]
+}

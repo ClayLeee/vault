@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./photo",
+  "spellcheck": true,
+  "tabSize": 4,
+  "vimMode": false,
+  "readableLineLength": true,
+  "showLineNumber": false
+}
