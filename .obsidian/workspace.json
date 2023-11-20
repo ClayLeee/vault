@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FleetNote/Neovim.md",
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FleetNote/Neovim.md",
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FleetNote/Neovim.md",
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FleetNote/Neovim.md"
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md"
               }
             }
           },
@@ -198,6 +198,8 @@
   "active": "43b5ecf3d8fe79f3",
   "lastOpenFiles": [
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/111. Finalizing Auth Listener.md",
+    "Frontend/React/Replace Component lifecycle with useEffect hook.md",
+    "FleetNote/Neovim.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/112. Observer Pattern.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/104. Finishing Authentication Page.md",
@@ -210,7 +212,6 @@
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/51. Monsters Rolodex - CardList Component.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/25. Don't Eject.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/21. Create React App - NPX.md",
-    "Frontend/React/Replace Component lifecycle with useEffect hook.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/61. Monsters Rolodex - Hooks - useEffect.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/60. Monsters Rolodex - Infinite Re-rendering.md",
     "Work@IIIDevops/線上計劃書-自動登出 mixin.md",
@@ -222,7 +223,6 @@
     "Work@IIIDevops/IIIDevOps-時間 module.md",
     "Work@IIIDevops/IIIDevOps-動態路由.md",
     "Work@IIIDevops/Manage architecture & Monorepo.md",
-    "Work@IIIDevops/Scss refactor.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20231112154347.png",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20231112154156.png",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230604215119.png",
