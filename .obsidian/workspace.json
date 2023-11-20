@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/Complete React Developer 目錄.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/Complete React Developer 目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/Complete React Developer 目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md"
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/Complete React Developer 目錄.md"
               }
             }
           },
@@ -178,11 +178,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,12 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43b5ecf3d8fe79f3",
+  "active": "17d5fd66703d9e3f",
   "lastOpenFiles": [
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/111. Finalizing Auth Listener.md",
     "Frontend/React/Replace Component lifecycle with useEffect hook.md",
     "FleetNote/Neovim.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/112. Observer Pattern.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/104. Finishing Authentication Page.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/103. Sign In Form.md",
