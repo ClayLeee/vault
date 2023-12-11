@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/React/Replace Component lifecycle with useEffect hook.md",
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/69. DOM Paint Flashing.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "provider",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/React/Replace Component lifecycle with useEffect hook.md",
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/69. DOM Paint Flashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/React/Replace Component lifecycle with useEffect hook.md",
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/69. DOM Paint Flashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/React/Replace Component lifecycle with useEffect hook.md"
+                "file": "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/69. DOM Paint Flashing.md"
               }
             }
           },
@@ -197,32 +197,32 @@
   },
   "active": "43b5ecf3d8fe79f3",
   "lastOpenFiles": [
-    "FleetNote/commit.md",
-    "FleetNote/FullCalendar import Google Calendar.md",
-    "Work@IIIDevops/Scss refactor.md",
-    "Work@IIIDevops/Manage architecture & Monorepo.md",
-    "FleetNote/Microsoft Graph API.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/106. User Context.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/98. Sign Up Form Pt.1.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/97. Sign In With Redirect.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/93. Authenticating With Firebase.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/108. Signing Out.md",
-    "Frontend/U don't know JS/2-6 觀念小叮嚀-語法解析器、執行環境與詞彙環境.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/107. Re-rendering From Context.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/109. Exercise - Imposter Syndrome.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/110. Observer - onAuthStateChange.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/111. Finalizing Auth Listener.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/112. Observer Pattern.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/Complete React Developer 目錄.md",
-    "Frontend/React/Replace Component lifecycle with useEffect hook.md",
-    "FleetNote/Neovim.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/104. Finishing Authentication Page.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/103. Sign In Form.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/102. Custom Button Component.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/101. Generalizing Form Input Component.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/95. Setting Up User Documents.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/85. React Router Outlet.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/68. ReactDOM v18 Changes.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/67. React and ReactDOM part 2.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/66. React and ReactDOM.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/65. DOM and Virtual DOM.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/64. React v18 - Strict Mode Changes.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/63. React v18 - Migrating from React v17 + ReactDOM v18 Changes.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/62. Monsters Rolodex - Remaining Components.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/61. Monsters Rolodex - Hooks - useEffect.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/60. Monsters Rolodex - Infinite Re-rendering.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/59. Monsters Rolodex - Functional Component Re-rendering.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/58. Monsters Rolodex - Hooks - useState.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/57. Pure & Impure Functions.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/56. Monsters Rolodex - Functional Component Intro.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/55. Class Component Lifecycle Methods Breakdown.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/54. Functional vs Class Components.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/53. Monsters Rolodex - Finishing Touches.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/52. Quick note on quotes for string interpolation.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/51. Monsters Rolodex - CardList Component.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/50. Monsters Rolodex - CSS in React.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/49. Monsters Rolodex - SearchBox Component.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/48. Monsters Rolodex - Rendering & Re-rendering part 2.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/47. Monsters Rolodex - Component Props.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/46. Monsters Rolodex - CardList Component.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/45. Monsters Rolodex - Understanding Components.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/44. Monsters Rolodex - Optimizations.md",
+    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/43. Monsters Rolodex - Storing Original Data.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20231112154347.png",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20231112154156.png",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230604215119.png",
