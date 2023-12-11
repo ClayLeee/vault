@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FleetNote/commit.md",
-                "mode": "source",
+                "file": "Frontend/React/Replace Component lifecycle with useEffect hook.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FleetNote/commit.md",
+                "file": "Frontend/React/Replace Component lifecycle with useEffect hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FleetNote/commit.md",
+                "file": "Frontend/React/Replace Component lifecycle with useEffect hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FleetNote/commit.md"
+                "file": "Frontend/React/Replace Component lifecycle with useEffect hook.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "43b5ecf3d8fe79f3",
   "lastOpenFiles": [
+    "FleetNote/commit.md",
     "FleetNote/FullCalendar import Google Calendar.md",
     "Work@IIIDevops/Scss refactor.md",
     "Work@IIIDevops/Manage architecture & Monorepo.md",
@@ -205,7 +206,6 @@
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/98. Sign Up Form Pt.1.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/97. Sign In With Redirect.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/93. Authenticating With Firebase.md",
-    "FleetNote/commit.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/108. Signing Out.md",
     "Frontend/U don't know JS/2-6 觀念小叮嚀-語法解析器、執行環境與詞彙環境.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/107. Re-rendering From Context.md",
