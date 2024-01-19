@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FleetNote/Monorepo.md",
+                "file": "Work@IIIDevops/Manage architecture & Monorepo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FleetNote/Monorepo.md",
+                "file": "Work@IIIDevops/Manage architecture & Monorepo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FleetNote/Monorepo.md",
+                "file": "Work@IIIDevops/Manage architecture & Monorepo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FleetNote/Monorepo.md"
+                "file": "Work@IIIDevops/Manage architecture & Monorepo.md"
               }
             }
           },
@@ -195,8 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25dce3e0e8343d35",
+  "active": "3502efcddba83166",
   "lastOpenFiles": [
+    "FleetNote/Microsoft Graph API.md",
+    "FleetNote/Monorepo.md",
     "FleetNote/未命名.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/68. ReactDOM v18 Changes.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/67. React and ReactDOM part 2.md",
@@ -221,8 +223,6 @@
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/48. Monsters Rolodex - Rendering & Re-rendering part 2.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/47. Monsters Rolodex - Component Props.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/46. Monsters Rolodex - CardList Component.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/45. Monsters Rolodex - Understanding Components.md",
-    "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/44. Monsters Rolodex - Optimizations.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20231112154347.png",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20231112154156.png",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/photo/Pasted image 20230604215119.png",
