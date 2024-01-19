@@ -11,8 +11,13 @@
             "id": "3502efcddba83166",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FleetNote/Monorepo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -129,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FleetNote/Monorepo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FleetNote/Monorepo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FleetNote/Monorepo.md"
+              }
             }
           },
           {
@@ -186,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3502efcddba83166",
+  "active": "25dce3e0e8343d35",
   "lastOpenFiles": [
     "FleetNote/未命名.md",
     "Frontend/Complete React Developer in 2023 (Redux, Hooks, GraphQL)/68. ReactDOM v18 Changes.md",
