@@ -19,19 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "b19f0ba8fc524897",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +197,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b19f0ba8fc524897",
+  "active": "3502efcddba83166",
   "lastOpenFiles": [
     "FleetNote/Microsoft Graph API.md",
     "FleetNote/Monorepo.md",
