@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3aad5450cdbf2764",
+        "id": "49b62dcaf2f80272",
         "type": "tabs",
         "children": [
           {
-            "id": "e019b9c76b3385f5",
+            "id": "c5c53c0fbfa85a3e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -129,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FleetNote/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FleetNote/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FleetNote/未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,10 +188,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25dce3e0e8343d35",
+  "active": "c5c53c0fbfa85a3e",
   "lastOpenFiles": [
-    "FleetNote/人工智慧應用工程師培訓.md",
     "FleetNote/未命名.md",
+    "FleetNote/人工智慧應用工程師培訓.md",
     "Work@IIIDevops/Manage architecture & Monorepo.md",
     "Work@IIIDevops/photo/Pasted image 20230317121418.png",
     "Work@IIIDevops/photo/Pasted image 20230419171425.png",
